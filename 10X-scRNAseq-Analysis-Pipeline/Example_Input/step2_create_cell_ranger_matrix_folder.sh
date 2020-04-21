@@ -1,0 +1,3 @@
+mkdir CellRangerFolder 
+drppm -ConvertMatrix2CellRangerExpressionOutputNoGTFNoManip GSE98638_HCC.TCell.S5063.count_filt1col_max_zero.txt CellRangerFolder/genes.tsv CellRangerFolder/barcodes.tsv CellRangerFolder/matrix.mtx
+
