@@ -1,2 +1,4 @@
 An example script and files for setting up the references.
 For now, I've excluded STAR and RSEM indexes.
+
+Will host the reference file online here...
