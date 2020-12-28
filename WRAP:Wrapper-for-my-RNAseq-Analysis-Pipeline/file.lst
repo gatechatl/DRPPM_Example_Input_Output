@@ -1,0 +1,2 @@
+# sampleName, path_to_bam, read_length, strand_direction, other_parameters
+SJALCL014725_D1_PolyA	/home/gatechatl/CSI-Miner/TestData/PolyA/SJALCL014725_D1.bam	101	reverse
